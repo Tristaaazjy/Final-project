@@ -30,6 +30,8 @@ webpage and a two-minute narrated screencast illustrating our project
 
 The National Institute of Diabetes and Digestive and Kidney Diseases.
 
+my name is
+
 #### Planned analyses:
 
 Logistic regression model
